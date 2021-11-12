@@ -31,4 +31,10 @@ I Almost Want To Give Up This Web Scraping Skill. I Encounter Many Problems And 
 21. After Everything Is Done, Have To Import TO CSV. 
 22. ERROR AGAIn **(11)** , There Only 1 Data And It The Last Data . 
 23. Check It , After That Turnout My Program Rewrite Again And Again, Change IT TO 'w' To 'a'
-24. AND YEAH ITS DONE
+24. AND YEAH ITS DONE, Is What I Thought. But There Are Problems In CSV
+25. There Are So Many Comma, I Cannot Delimit Using Comma Otherwise ERROR **(12)**
+26. Change The Delimiter AND FINALLY ITS DONE, But I Have To Change The Url Everytime I Write The Program
+27. I Check On The Internet, How To Scrap Multiple Page And Yeah I Manage To Do It.
+28. THEN IT WAS DONE
+
+
