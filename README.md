@@ -37,4 +37,25 @@ I Almost Want To Give Up This Web Scraping Skill. I Encounter Many Problems And 
 27. I Check On The Internet, How To Scrap Multiple Page And Yeah I Manage To Do It.
 28. THEN IT WAS DONE
 
+NEXT PROBLEM IN SQL
 
+# SQL JOURNEY:
+1.
+
+
+
+
+
+# Summary
+I Was Able To Learn So Many Things In This Project, SOOOOO MANY. How TO Scrap Website, How To Import Into Csv, Advanced Technique In SQL. Etc
+
+I Can Scrap My Own Data, Which Is Very Good Things To Have. I Also Got More Comfortable In SQL, Using INNER Join,Union ,CAST
+
+
+# GOAL
+In This Project, I Spend 2 Weeks To Get My Project Done. Which For Me Very Long. But I Gain Many Skill In The Process Of Doing So.
+
+I Already Can Web Scraping, Next Should Be Practice Into Perfecting My Web Scraping Technique, Machine Learning, Also Learn Analyst Skill.
+
+I Think I Also Should Learn To Visualization In Excel.
+...
