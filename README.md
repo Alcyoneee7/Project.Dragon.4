@@ -37,17 +37,37 @@ I Almost Want To Give Up This Web Scraping Skill. I Encounter Many Problems And 
 27. I Check On The Internet, How To Scrap Multiple Page And Yeah I Manage To Do It.
 28. THEN IT WAS DONE
 
-NEXT PROBLEM IN SQL
+NEXT PROBLEM IN SQL.
+This SQL PROBLEM ALSO VERY HARD....
 
 # SQL JOURNEY:
-1.
+
+1. The Usual, Cleaning....
+2. Problem Encounter: There Are Some Data I Have To Add Zero In The Behind
+3. Gross Have $ And M . Trim it...
+4. Movie Out Of Range, Only Need (2018-2020)
+5. Address The Problem And Solution, Want To Know Which Genre have Most Votes, Gross, Top Movies .. etc
+6. Another Problem Again, I Need To Split The Genre Into 1,2,3 . Sum All The Genre And Count The Distinct 
+7. DONE
 
 
 
+# LAST PART
+The Last Part Is The Easiest And Relaxing. I Do Import The Data To Tableau Public And Making Visualizations.
 
+I Was Able To Make More Beautiful Dashboard And I Also Have The Chance To Try On Another Chart .
+
+I Change The Font Type,Size,Pane, Everything To Better Itself.
+
+
+# RESULT
+
+Result In Dashboard, Tableau Public: 
+
+https://public.tableau.com/app/profile/alcyone/viz/OverviewOfMovies-20182020/Dashboard1
 
 # Summary
-I Was Able To Learn So Many Things In This Project, SOOOOO MANY. How TO Scrap Website, How To Import Into Csv, Advanced Technique In SQL. Etc
+I Was Able To Learn So Many Things In This Project, SOOOOO MUCHH. How TO Scrap Website, How To Import Into Csv, Advanced Technique In SQL. Etc
 
 I Can Scrap My Own Data, Which Is Very Good Things To Have. I Also Got More Comfortable In SQL, Using INNER Join,Union ,CAST
 
